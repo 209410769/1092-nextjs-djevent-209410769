@@ -8,6 +8,7 @@ html,
 body {
   font-family: 'Poppins', sans-serif;
   line-height: 1.8;
+  background-color: rgb(71, 71, 71);
 }
 a {
   text-decoration: none;
