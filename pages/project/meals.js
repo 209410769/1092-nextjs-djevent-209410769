@@ -22,6 +22,9 @@ export default function meals() {
             setMealData(res.meals)
         })
     }
+
+
+    
     return (
     <div>
         <Head>
