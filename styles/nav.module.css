@@ -1,0 +1,32 @@
+
+.nav {
+  background-color: black;
+}
+
+.main_nav {
+  display: flex;
+  list-style: none;
+  font-size: 1em;
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .main-nav {
+    font-size: 0.7em;
+    padding: 0;
+  }
+}
+
+.push {
+  padding: 20px;
+  margin-left: auto;
+}
+
+.li {
+  padding: 20px;
+}
+
+.a {
+  text-decoration: none;
+  color: white;
+}
